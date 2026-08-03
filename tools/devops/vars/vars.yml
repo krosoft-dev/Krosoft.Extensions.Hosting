@@ -1,7 +1,6 @@
 variables:
   # Agent VM image name
-  # vmImage: "ubuntu-latest"
-  vmImage: "ubuntu-22.04"
+  vmImage: "ubuntu-latest"
 
   # .net
   dotNetVersion: "10.0.x"
@@ -17,5 +16,5 @@ variables:
   #SonarCloud
   sonarCloudEndpoint: "SonarCloud"
   sonarCloudOrganization: "krosoft-dev"
-  sonarCloudProjectKey: "krosoft-dev_Krosoft.Extensions"
-  sonarCloudProjectName: "Krosoft.Extensions"
+  sonarCloudProjectKey: "krosoft-dev_Krosoft.Extensions.Hosting"
+  sonarCloudProjectName: "Krosoft.Extensions.Hosting"

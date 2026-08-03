@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Krosoft.Extensions.Hosting/Krosoft.Extensions.Hosting.csproj" />
+  </Folder>
+</Solution>

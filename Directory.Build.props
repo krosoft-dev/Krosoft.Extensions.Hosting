@@ -2,8 +2,8 @@
   <PropertyGroup>
     <Company>Krosoft</Company>
     <Authors>Krosoft</Authors>
-    <Copyright>Copyright © 2012</Copyright>
-    <RepositoryUrl>https://github.com/krosoft-dev/Krosoft.Extensions.git</RepositoryUrl>
+    <Copyright>Copyright Â© 2012</Copyright>
+    <RepositoryUrl>https://github.com/krosoft-dev/Krosoft.Extensions.Hosting.git</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
