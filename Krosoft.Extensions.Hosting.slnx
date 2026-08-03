@@ -2,4 +2,7 @@
   <Folder Name="/src/">
     <Project Path="src/Krosoft.Extensions.Hosting/Krosoft.Extensions.Hosting.csproj" />
   </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Krosoft.Extensions.Hosting.Tests/Krosoft.Extensions.Hosting.Tests.csproj" />
+  </Folder>
 </Solution>

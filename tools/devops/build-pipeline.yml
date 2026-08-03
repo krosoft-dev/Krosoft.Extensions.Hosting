@@ -28,7 +28,5 @@ stages:
       sonarCloudOrganization: ${{ variables.sonarCloudOrganization }}
       sonarCloudProjectKey: ${{ variables.sonarCloudProjectKey }}
       sonarCloudProjectName: ${{ variables.sonarCloudProjectName }}
-      # Pas de projet de test dans ce repo : desactive l'execution des tests
-      # et la generation du rapport de couverture, qui echoue sans donnees.
-      runUnitTests: false
+      runUnitTests: true
       runSonarCloudAnalyze: true
