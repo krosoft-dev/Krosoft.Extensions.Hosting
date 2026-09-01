@@ -9,6 +9,6 @@
 		<PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="10.0.11" />
 	</ItemGroup>
 	<ItemGroup>
-		<PackageReference Include="Krosoft.Extensions.Core" Version="2026.8.27.9744" />
+		<PackageReference Include="Krosoft.Extensions.Core" Version="2026.8.31.10083" />
 	</ItemGroup>
 </Project>
